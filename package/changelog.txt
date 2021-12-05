@@ -1,0 +1,36 @@
+1.2.0 - Aug 7 - 2019
+	- NEW:
+		+ Multi language for site
+		+ Add Post Type Space for Rental
+		+ Add pagination for Media Uploading
+		+ Add Config Email settings in admin Dashboard
+		+ Add Config Timezone in settings
+		+ Add Favicon option
+		+ Booking report for vendor
+		+ Add Options to change Contact information 
+
+	- Fix:
+		+ [Fixed] error Create Tour in vendor panel
+		+ [Fixed] Date time issue in the form search
+		+ [Fixed] Scroll issue in Testimonial Block in Home Template
+		+ [Fixed] Openstreemap
+
+1.1.0 - Jul,10 - 2019
+	- NEW:
+		+ Tour Booking Calendar: View all your tour bookings in calendar (Only for Admin, will update for Vendor later)
+		+ Stripe Standard Payment Gateway
+		+ Change default forgot password email template to match our design
+		+ Add bulk actions for Language Management page
+		+ Add options for enable ReCaptcha in Login/Register and Booking form
+		+ Move uploads folder to "public/uploads", you need to copy all old files under "storage/app/public" to "public/uploads"
+		+ Add "Find Translations" button in Translation Tool
+		
+	- Fix:
+		+ Bug create/update user
+		+ Bug in translations tool
+		+ Bug button "remove" in tour page does not work
+		+ Change default image size in tour search page to width: 600px (old is 150px)
+		+ Bug in delete menu item
+		+ Other small improvements
+		
+1.0.0 - Jun,27 - 2019 First Release
